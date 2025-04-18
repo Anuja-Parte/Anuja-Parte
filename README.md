@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anuja-Parte
-- 👀 I’m interested in a job role as aeronautica/aerospace engineer 
+- 👀 I’m interested in a job role as aeronautical/aerospace engineer 
 - 🌱 I’m currently learning python and simulation softwares
 - 💞️ I’m looking to collaborate on space related projects
 - 📫 How to reach me anujaparte0210@gmail.com
